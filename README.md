@@ -57,7 +57,3 @@ ___
   [BSD 3-Clause "New" or "Revised" License](https://github.com/nakamutomo/mypkg/blob/master/LICENSE)
   
 
-___
-
-## 参考
-  [このREADMEはこちらをベースに作成しました](https://github.com/nakamutomo/robot_system/blob/main/README.md)
